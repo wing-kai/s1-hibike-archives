@@ -1,0 +1,20 @@
+.card-body .reply_wrap {
+  padding: 1rem;
+  background-color: var(--light)
+}
+
+.card-body img {
+  max-width: 100%;
+}
+
+.avatar {
+  object-fit: contain;
+}
+
+.btn-fast-scroll {
+  position: fixed;
+  width: 100px;
+  bottom: 100px;
+  right: 50px;
+  opacity: .7
+}
