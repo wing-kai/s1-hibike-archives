@@ -1,3 +1,7 @@
+body {
+  padding-bottom: 50px
+}
+
 .card-body .reply_wrap {
   padding: 1rem;
   background-color: var(--light)
@@ -13,8 +17,7 @@
 
 .btn-fast-scroll {
   position: fixed;
-  width: 100px;
-  bottom: 100px;
-  right: 50px;
+  bottom: 20px;
+  right: 20px;
   opacity: .7
 }
