@@ -1,23 +1,6 @@
-body {
-  padding-bottom: 50px
-}
-
-.card-body .reply_wrap {
-  padding: 1rem;
-  background-color: var(--light)
-}
-
-.card-body img {
-  max-width: 100%;
-}
-
-.avatar {
-  object-fit: contain;
-}
-
-.btn-fast-scroll {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  opacity: .7
-}
+body{padding-bottom:50px;}
+.card-body{word-break:break-all;}
+.card-body .reply_wrap{padding:1rem;background-color:var(--light);}
+.card-body img{max-width:100%;}
+.avatar{object-fit:contain;}
+.btn-fast-scroll{position:fixed;bottom:20px;right:20px;opacity:.7;}
